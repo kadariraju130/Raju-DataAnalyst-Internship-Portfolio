@@ -11,19 +11,19 @@ Each task of this internship was executed and stored in a dedicated repository:
 
 - **Task 1: Exploratory Data Analysis & Data Cleaning**
   - Focus: Data wrangling, handling missing values, data types, and initial data profiling.
-  - [View Task 1 Repository](#) *(Insert link)*
+  - [View Task 1 Repository](#) *(https://github.com/kadariraju130/ApexPlanet-Data-Analytics-Task1)*
 
 - **Task 2: Business Query Automation & Multivariate Analysis**
   - Focus: Automated Python scripts answering complex operational questions and correlation analysis.
-  - [View Task 2 Repository](#) *(Insert link)*
+  - [View Task 2 Repository](#) *(https://github.com/kadariraju130/ApexPlanet-Data-Analytics-Task2)*
 
 - **Task 3: Deep-Dive Analysis & Interactive Dashboarding**
   - Focus: Core KPI design, customer segmentation, and Power BI interactive dashboard building.
-  - [View Task 3 Repository](#) *(Insert link)*
+  - [View Task 3 Repository](#) *(https://github.com/kadariraju130/ApexPlanet-Data-Analytics-Task3)*
 
 - **Task 4: Data Storytelling & Statistical Validation**
   - Focus: Hypothesis testing (T-tests), business narrative structuring, and Gamma presentation deck design.
-  - [View Task 4 Repository](#) *(Insert link)*
+  - [View Task 4 Repository](#) *()*
 
 ---
 
